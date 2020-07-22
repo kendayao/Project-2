@@ -78,6 +78,14 @@ Bootstrap - Front-end framework
 
 Heroku - Deployment and hosting
 
+HTML
+
+JavaScript
+
+jQuery
+
+CSS
+
 
 ## Collaborators
 Kaeneth Dayao - https://github.com/kendayao
