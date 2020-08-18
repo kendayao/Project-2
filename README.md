@@ -111,6 +111,7 @@ Tristan Postley - https://github.com/TristanPostley
 ## Deployed Application URL
 
 Deployed application link: https://polar-island-19787.herokuapp.com/
+
 Video Demo: https://giphy.com/gifs/ZBzZG6LmLuRbvnDqQV/fullscreen
 
 <img src="public/images/assemble.png" width="400" height="300">
