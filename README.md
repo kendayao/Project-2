@@ -3,7 +3,7 @@
 
 ## Description
 
-Assemble is a responsove website application for quickly organizing public events from exercise groups, social events, community service, and protests. Organizers are able to sign in and post an event which can be viewed by anyone using the site. Organizers can see who are interested in the event and send emails to them with event updates.
+Assemble is a responsive website application for quickly organizing public events from exercise groups, social events, community service, and protests. Organizers are able to sign in and post an event which can be viewed by anyone using the site. Organizers can see who are interested in the event and send emails to them with event updates.
 
 ## Table of Contents
 
