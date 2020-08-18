@@ -3,7 +3,7 @@
 
 ## Description
 
-Assemble is a platform for quickly organizing public events from exercise groups to protests. 
+Assemble is a responsove website application for quickly organizing public events from exercise groups, social events, community service, and protests. Organizers are able to sign in and post an event which can be viewed by anyone using the site. Organizers can see who are interested in the event and send emails to them with event updates.
 
 ## Table of Contents
 
@@ -111,5 +111,6 @@ Tristan Postley - https://github.com/TristanPostley
 ## Deployed Application URL
 
 Deployed application link: https://polar-island-19787.herokuapp.com/
+Video Demo: https://giphy.com/gifs/ZBzZG6LmLuRbvnDqQV/fullscreen
 
 <img src="public/images/assemble.png" width="400" height="300">
